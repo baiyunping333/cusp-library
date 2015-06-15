@@ -1,0 +1,1 @@
+> [ViennaCL](http://viennacl.sourceforge.net/): ViennaCL provides high level C++ interfaces for linear algebra routines on GPUs using OpenCL. The focus is on generic implementations of iterative solvers often used in e.g. finite element methods and easy incorporation into existing projects.

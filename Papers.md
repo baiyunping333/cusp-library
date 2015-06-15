@@ -1,0 +1,3 @@
+## [Accelerating the solution of families of shifted linear systems with CUDA](http://arxiv.org/abs/1102.2143) ##
+Richard Galvez, Greg van Anders
+> We describe the GPU implementation of shifted or multimass iterative solvers for sparse linear systems of the sort encountered in lattice gauge theory. We provide a generic tool that can be used by those without GPU programming experience to accelerate the simulation of a wide array of theories. We stress genericity, which is important to allow the simulation of candidate theories for new physics at LHC, and for the study of various supersymmetric theories. We find significant speed ups, which we conservatively bound below at at least twelve times, that promise to put a variety of research questions within practical reach.
